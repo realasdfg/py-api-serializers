@@ -91,7 +91,7 @@ class MovieSessionListSerializer(serializers.ModelSerializer):
             "show_time",
             "movie_title",
             "cinema_hall_name",
-            "cinema_hall_capacity"
+            "cinema_hall_capacity",
         )
 
 
